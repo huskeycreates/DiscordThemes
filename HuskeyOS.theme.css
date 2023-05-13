@@ -18,13 +18,13 @@
 	--app-margin: 24px;
 	--app-radius: 8px; /*	-	*/
 	
-	--accent-hue: 156;
-	--accent-saturation: 77.5%;
-	--accent-lightness: 47.1%;
+	--accent-hue: 236;
+	--accent-saturation: 71%;
+	--accent-lightness: 33%;
 	--accent-opacity: 1;
 	--accent-text-color: #000; /*	-	*/
 
-	--sidebar-color: rgba(0,0,0,0.4);
+	--sidebar-color: rgba(5,7,41,0.4);
 	--main-content-color: rgba(0,0,0,0.2); /*	-	*/
 
 	--message-color: rgba(0,0,0,0.4);
