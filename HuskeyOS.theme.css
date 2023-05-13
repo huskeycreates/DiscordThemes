@@ -32,10 +32,10 @@
 	--message-padding-top: 8px;
 	--message-padding-side: 8px; /*	-	*/
 	
-	--reply-hue: 226;
-	--reply-saturation: 77.4%;
-	--reply-lightness: 61.8%;
-	--reply-opacity: 1; /*	-	*/
+	--reply-hue: 218;
+	--reply-saturation: 65%;
+	--reply-lightness: 38%;
+	--reply-opacity: 0.5*	-	*/
 
 	--textarea-color: 255,255,255;
 	--textarea-alpha: 0.1;
@@ -53,9 +53,9 @@
 	--button-radius: 16px; /*	-	*/
 
 	--interactive-normal: #aaa;
-	--interactive-hover: #ddd;
+	--interactive-hover: #00d;
 	--interactive-active: #fff;
-	--interactive-muted: #777; /*	-	*/
+	--interactive-muted: #007; /*	-	*/
 
 	--background-modifier-hover: rgba(255,255,255,0.075);
 	--background-modifier-selected: rgba(255,255,255,0.125);
