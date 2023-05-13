@@ -1,8 +1,8 @@
 /**
- * @name Translucence
+ * @name HuskeyOS
  * @version 1.0.6.3
- * @description A translucent/frosted glass Discord theme
- * @author CapnKitten
+ * @description A translucent/frosted glass Discord theme in the style of HuskeyOS
+ * @author CapnKitten and Huskey
  *
  * @website http://github.com/CapnKitten
  * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Translucence/css/source.css
@@ -13,7 +13,7 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: url(https://i.imgur.com/bgmVeyt.jpg);
+	--app-bg: url(https://i.imgur.com/eRAnBmA.mp4);
 	--app-blur: 6px;
 	--app-margin: 24px;
 	--app-radius: 8px; /*	-	*/
